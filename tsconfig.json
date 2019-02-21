@@ -17,6 +17,8 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "jsx": "react",
+    "jsxFactory": "createElement"
   }
 }
